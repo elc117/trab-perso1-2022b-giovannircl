@@ -63,9 +63,9 @@ O sistema é estruturado com 6 Forms e 1 Data module:
 
 - **Home:**
 
-  - Fornecedores:Ambiente de cadastro/consulta dos fornecedores.
+  - Fornecedores: Ambiente de cadastro/consulta dos fornecedores.
 
-  - Produtos:Ambiente de cadastro/consulta dos produtos.
+  - Produtos: Ambiente de cadastro/consulta dos produtos.
 
 - **Botões:**
 
